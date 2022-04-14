@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sahibealam
 - 👀 I’m interested in Developing Static and Dynamic Sites.
-- 🌱 I’m currently learning ASP.NET.
-- 💞️ I’m looking to collaborate on 
+- 🌱 currently pursuing MTech. from NIT Jamshedpur.
+- 💞️ I’m looking to collaborate on good project.
 - 📫 How to reach Through mail: sahibe.alam2903＠gmail.com
 
 <!---
